@@ -1,0 +1,24 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 120
+        length: 27
+        placeholder_text: /* Create a size 5 board */
+        initial_state:
+          length: 27
+          offset: 120
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BkQ05Z0D+3mQsD4zKob/vw==
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw+iCMEJiQD/LheHDzaaaNqLEur6fAUU+6ziqNkguiVsjBj5PsyFT/LRGLxfcGjKzfbfo/v58Y0CH1ZIRAGnujA5ZjKsuLZcO0KJu65B5cKCSBdDDHrwQo3l0Uk/paYqohQ==
+    learner_created: false
+  - name: src/Board.java
+    visible: true
+    encrypted_text: LfFLsfG9cQ208n0AbYyivPSrgjYD9uXlNTMJ6tvPs/utAGfJuor6070GFZxeVZYq4Vuj664qQB9QHhCriIFFxyQ1EpdxyiikVkGLZ/e4QEt8W5lrsA+1jqgov3ACsriibRTKDx+glOrmiuJ4VoFyufE/k5m1AYTLQcb4rBF66j6XddXXmn3LTiaRjy+TkiB024RKDPU69gujVNmk55EwMhfeUJWxTYGq2Vkum/n8bDaY+cQqQ5jZD/qiUZTj/zN3JOiF7hANsvAWDAjqffJU2c9aOLt7SNNiMMPHE2Wu60CXw7OyAR8PoIrOZmcl2OrEbtbUPdDUUORbJsRh92tpyeodBTtONGwSYrUdQ5wW9Nlgn63C7jfYLH+ntypW+/6oVfMpioi9/6G8cVYbbuvqSQ==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

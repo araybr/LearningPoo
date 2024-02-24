@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw2is6FRQFnavvHKkmYpdcHV3SwehfeIO0T7ww6+JPOn050t3kQfMrNt+yd+Z6q8l7g==
+    learner_created: false
+  - name: src/Figura.java
+    visible: false
+    encrypted_text: p5S18CDFmU72bJy05NkvLjXakLKTysqQ60AywoTD3e0XWjL0psfqMZC8QuF8rcYeYNiSlrm+Ty+Qxc4uu25Bq1N1fSw+F4Lr6JByniKBL/z06qOKOFct6FRibqzJtk+G5OxYgc4J0eEoteOh9vYVOBqYHZ0uo0kxgM2RTiQ0sfCE23WbmrCgs1fOQSfd9/42OdRp34xtH2b8VvINrOlNHj+2FMoyDr3IGwWcYqjOFvRTm1xsKqir2bFnBw15PF4ZwNG2SUVfmDiFS/K/6uPV+72B68BjTF5BGJa82Kv5JOo55zn1bnhQRZgDuLZiyfwBYlZT4TPi0OMtyhslRvIvTbPn1AT/Sm57/n32Dj5MF8HbrCzwhMzl49a4/sq/3c73
+    learner_created: false
+  - name: src/Cuadrado.java
+    visible: true
+    encrypted_text: oeq76YvQa3bqQKoFWNUSDoRmkqSX17Fml9LlH2DUc+840VIG9wcNJsQnaRsS+hWaMB6lE4kr/XLFb7i1/8y4dQ==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true
